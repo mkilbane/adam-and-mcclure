@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mkilbane.github.io/adam-and-mcclure/helen-adam-at-naropa-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Helen Adam at Naropa " ] },
+    "homepage": [
+      {
+        "id": "https://server16621.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p16621coll1/9.mp3/byte/json",
+        "type": "Text",
+        "label": { "en": [ "Helen Adam at Naropa " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://cdm16621.contentdm.oclc.org",
+        "type": "Agent",
+        "label": { "en": [ "Naropa University Digital Archives" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mkilbane.github.io/adam-and-mcclure/helen-adam-at-naropa-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5271.0,
+        "items": [
+          {
+            "id": "https://mkilbane.github.io/adam-and-mcclure/helen-adam-at-naropa-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mkilbane.github.io/adam-and-mcclure/helen-adam-at-naropa-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://server16621.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p16621coll1/9.mp3/byte/json",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 5271.0
+                },
+                "target": "https://mkilbane.github.io/adam-and-mcclure/helen-adam-at-naropa-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
