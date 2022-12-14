@@ -23,6 +23,16 @@
         "id": "https://mkilbane.github.io/adam-and-mcclure/helen-adam-at-naropa-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5271.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mkilbane.github.io/adam-and-mcclure/annotations/helen-adam-at-naropa--canvas-1-speech.json",
+            "label": {
+              "none": ["speech"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mkilbane.github.io/adam-and-mcclure/helen-adam-at-naropa-/canvas-1/paintings",
