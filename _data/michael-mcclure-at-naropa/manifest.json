@@ -23,6 +23,16 @@
         "id": "https://mkilbane.github.io/adam-and-mcclure/michael-mcclure-at-naropa/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5297.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mkilbane.github.io/adam-and-mcclure/annotations/michael-mcclure-at-naropa-canvas-1-notes.json",
+            "label": {
+              "none": ["Notes"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mkilbane.github.io/adam-and-mcclure/michael-mcclure-at-naropa/canvas-1/paintings",

@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/adam-and-mcclure/annotations/michael-mcclure-at-naropa-canvas-1-notes.json",
+  "type": "AnnotationPage",
+  "label": "Notes",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-naropa-canvas-1-notes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I'm going to read a few poems in Beast Language",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/adam-and-mcclure/michael-mcclure-at-naropa/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3528"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-naropa-canvas-1-notes-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that's chaucer",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/adam-and-mcclure/michael-mcclure-at-naropa/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3535"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-naropa-canvas-1-notes-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "poem 1",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/adam-and-mcclure/michael-mcclure-at-naropa/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3540"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-naropa-canvas-1-notes-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "poem 2",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/adam-and-mcclure/michael-mcclure-at-naropa/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3565"
+        }
+      }
+    }
+  ]
+}
