@@ -4,6 +4,7 @@
 
 layout: home
 ---
+
 The Voice in Extremity: Michael McClure, Helen Adam, and the Digital Lyric Archive 
 
 1.	
@@ -32,4 +33,4 @@ The reference to Lilly, the countercultural scientist, is curiously overdetermin
 
 
 ---->The rest of Part Two reads Lilly’s isolation tank as a kind of anti-model for the recorded poetry performance—a model for the idealistic experience of a poem on the page—to which McClure instructively reacts in this reading at Naropa. I then use the anti-isolation tank model of the poetry reading to examine three affordances of the digital lyric archive when elaborated with the tools of AudiAnnotate: the reading voice (the performative relationship between voice and absent page), the situated voice (the documentary relationship between a speaking voice and its particular audience), and the social voice (the embodied relationship between a speaking voice and its own social history). I then introduce the two readings by McClure and Helen Adam and summarize my findings along these three axes, though the “close readings” will be performed in the annotations themselves—or more specifically, in the unfolding relationship between the annotations and the actual sonic text.
-![image](https://user-images.githubusercontent.com/11153658/208012612-d73ebd6f-3ab2-4cd5-9fe0-f85c997c4eea.png)
+
